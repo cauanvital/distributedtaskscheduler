@@ -1,3 +1,5 @@
 module github.com/cauanvital/distributedtaskscheduler
 
 go 1.25.4
+
+require github.com/jmoiron/sqlx v1.4.0 // indirect
